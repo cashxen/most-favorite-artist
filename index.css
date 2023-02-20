@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: crimson;
+  text-align: center;
+  border: 1px solid;
+  
+}
+
+
+p {
+  color: crimson;
+  margin-top: 100px;
+  text-align: center;
+}
