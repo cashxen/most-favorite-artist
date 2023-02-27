@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  margin: 0;
 }
 
 h1 {
@@ -14,9 +15,20 @@ p {
   color: crimson;
   margin-top: 100px;
   text-align: center;
-  font-size:40px;
+  font-size:20px;
+  padding: 40px;
+  background-color: red;
+  color: black;
 }
 img {
-  width: 1000px;
+  width: 100%;
+  
+}
+
+nav {
+  display: flex;
+  border:crimson solid;
+  text-align: center;
+  justify-content: space-between;
   
 }
