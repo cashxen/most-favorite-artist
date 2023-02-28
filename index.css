@@ -1,6 +1,7 @@
 body {
   background-color: black;
   margin: 0;
+  font-style: italic;
 }
 
 h1 {
@@ -21,8 +22,7 @@ p {
   color: black;
 }
 img {
-  width: 100%;
-  
+  width: 50%;
 }
 
 nav {
@@ -32,3 +32,14 @@ nav {
   justify-content: space-between;
   
 }
+ main {
+ 
+ }
+ div {
+  display: flex;
+ }
+ 
+ footer {
+  text-align: right;
+  color: cyan;
+ }
