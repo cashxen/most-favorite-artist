@@ -8,18 +8,20 @@ h1 {
   color: crimson;
   text-align: center;
   border: 1px solid;
+  padding: 10px;
   
 }
 
 
 p {
-  color: crimson;
+ color: aliceblue;
   margin-top: 100px;
   text-align: center;
   font-size:20px;
   padding: 40px;
-  background-color: red;
-  color: black;
+  background-color: black;
+  padding: 10px;
+  
 }
 img {
   width: 50%;
@@ -37,9 +39,14 @@ nav {
  }
  div {
   display: flex;
+  flex-wrap: wrap;
  }
  
+.small-p {
+  max-width: 675px;
+ }
+
  footer {
   text-align: right;
-  color: cyan  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>  <footer>(website copyrited by Q.cash xen)</footer>;
+  color: cyan ;
  }
